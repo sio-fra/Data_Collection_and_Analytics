@@ -1,6 +1,6 @@
-##Review Classification
+## Review Classification
 
-###This is a script which classifies reviews for hotels, fashion and automotive businesses.
+### This is a script which classifies reviews for hotels, fashion and automotive businesses.
 
 1. Reviews for these three types of businesses are first collected and categorised as being positive or negative reviews (where anything under 4 stars is deemed as negative).
 
